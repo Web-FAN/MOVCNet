@@ -9,7 +9,7 @@ Codes and Datasets for our Findings of EMNLP 2023 paper: Incorporating Object-Le
 
 - Download the object-level image feature via this link
 
-  ()
+  (https://pan.quark.cn/s/1e1f392a5102)
 
   It is a dict. The key is mention, the value is object feature extracted by VinVL.
   
