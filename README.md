@@ -25,3 +25,6 @@ Download all files and put them in `dataset/`, , run the following command to tr
     python train.py
 
 ## Dataset Information
+The dataset distribution information.
+
+![dataset_information](dataset_information.png)
