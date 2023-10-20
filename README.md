@@ -20,7 +20,7 @@ Codes and Datasets for our Findings of EMNLP 2023 paper: Incorporating Object-Le
 - PyTorch 1.8.1+
 
 ## Run
-Download all files and put them in `dataset/`, , run the following command to train and eval the model:
+Download all files and put them in `dataset/` , run the following command to train and eval the model:
     
     python train.py
 
